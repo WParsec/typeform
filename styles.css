@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+body,
+html {
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  background-color: #f0f0f0; /* Light grey background */
+}
+
+.typeform-widget {
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  height: 100vh;
+}
+
+.logo-container {
+  margin-bottom: 20px; /* Adjust as needed */
+}
+
+.logo {
+  max-width: 100%; /* Ensures the logo is responsive */
+  height: auto;
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  color: #ca6a65;
+}
